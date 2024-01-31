@@ -49,9 +49,11 @@ CSS3
 JavaScript
 ### Contributing
 Contributions are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md.
+For more details, please read the [Contribution Guidelines](CONTRIBUTING.md).
 
-### License
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 Images used in the project are from Media directory.

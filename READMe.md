@@ -6,8 +6,8 @@ This project is a simple music website that allows users to play and pause a mus
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Built With](#built-with)
@@ -33,7 +33,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/music-website.git
+   git clone https://github.com/kritesh00/music-website.git
 
 1.Navigate to the project directory:
 cd music-website
